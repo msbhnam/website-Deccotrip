@@ -773,7 +773,7 @@ h6,
   /* buat isi di tengah vertikal */
   justify-content: center;
   overflow: hidden;
-  background: url("../image/bg2.JPG") center/cover fixed no-repeat;
+  background: url("image/bg2.JPG") center/cover fixed no-repeat;
   font-family: "poppins" sans-serif;
   margin-bottom: 0px;
   padding: 100px 0;
@@ -2360,3 +2360,4 @@ p {
   }
 
 }
+
