@@ -674,10 +674,10 @@ h6,
   }
 
   .destination-card {
-    flex: 0 0 80%;
+    flex: 0 0 100%;
     /* tiap card lebar 80% layar */
     max-width: 180px;
-    height: 200px;
+    height: 250px;
     scroll-snap-align: center;
     border-radius: 15px;
   }
@@ -2360,5 +2360,6 @@ p {
   }
 
 }
+
 
 
